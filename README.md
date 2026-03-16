@@ -1,26 +1,26 @@
 <h1 align="center">Marwan Abdelghaffar</h1>
 
-<h3 align="center">
+<p align="center">
 AI Engineer • Machine Learning • Quantum Computing • Cloud AI
-</h3>
+</p>
 
 <p align="center">
 Lead — Huawei Cloud Developer Group Giza
 </p>
 
 <p align="center">
-Building intelligent systems and AI products for real-world impact
+Building intelligent systems and applied AI solutions
 </p>
 
 ---
 
 ## Profile
 
-AI engineer working on machine learning systems, deep learning models, and cloud AI applications.
+AI engineer working on machine learning systems and deep learning models.
 
-Experience includes building predictive models, working with NLP transformers, and deploying AI prototypes on cloud platforms.
+Experience includes predictive modeling, NLP transformers, and deployment of ML prototypes on cloud infrastructure.
 
-Leading **Huawei Cloud Developer Group Giza** and building one of the fastest growing developer communities in the region. :contentReference[oaicite:0]{index=0}
+Lead of Huawei Cloud Developer Group Giza. Building a developer community focused on AI and cloud technologies.
 
 ---
 
@@ -59,25 +59,20 @@ Leading **Huawei Cloud Developer Group Giza** and building one of the fastest gr
 ## Areas of Work
 
 Artificial Intelligence  
-Machine Learning Systems  
+Machine Learning  
 Deep Learning  
 Generative AI  
 Quantum Computing  
+Cloud AI  
 Data Science  
-Cloud AI Deployment  
 
 ---
 
 ## Achievements
 
-3rd Place  
-SOLE 2025 BioHackathon — Metagenomics and AI Track :contentReference[oaicite:1]{index=1}
-
-Silver Medal  
-Huawei ICT Competition 2025–2026 — Cloud Track :contentReference[oaicite:2]{index=2}
-
-3rd Top Achiever  
-ITIDA GIGS Freelancing Program :contentReference[oaicite:3]{index=3}
+3rd Place — SOLE BioHackathon  
+Silver Medal — Huawei ICT Competition Cloud Track  
+3rd Top Achiever — ITIDA GIGS Freelancing Program  
 
 ---
 
@@ -88,11 +83,39 @@ Lead and Owner
 
 Responsibilities
 
-Community building  
+Community growth  
 Technical workshops  
-Cloud and AI training  
+Cloud training sessions  
 Developer mentorship  
-University tech communities
+University community launches  
+
+---
+
+## Certifications
+
+Huawei HCIA-AI  
+
+AI Training — Zewail City  
+
+Python for Everybody — University of Michigan  
+
+Applied Data Science Lab — WorldQuant University  
+
+Elements of AI for Business  
+
+---
+
+## Education
+
+Capital University  
+Faculty of Science  
+Geology and Chemistry  
+
+WorldQuant University  
+Applied AI Lab  
+
+WorldQuant University  
+Applied Data Science Lab  
 
 ---
 
@@ -108,11 +131,31 @@ University tech communities
 
 ---
 
-## GitHub Languages
+## Top Languages
 
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwanyasser2005&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marwanyasser2005&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
