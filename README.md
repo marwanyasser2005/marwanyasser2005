@@ -1,20 +1,21 @@
 <p align="center">
 
-<svg width="100%" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="340" viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg">
 
-  <!-- Background Image -->
-  <image href="https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1600&q=80"
-  width="1200" height="320"
+  <!-- Background image -->
+  <image href="https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=2000&q=80"
+  width="1200"
+  height="340"
   preserveAspectRatio="xMidYMid slice"/>
 
   <!-- Dark overlay -->
-  <rect width="1200" height="320" fill="rgba(13,17,23,0.65)" />
+  <rect width="1200" height="340" fill="rgba(13,17,23,0.75)" />
 
-  <!-- Main Title -->
-  <text x="50%" y="45%"
+  <!-- Name -->
+  <text x="50%" y="46%"
   text-anchor="middle"
   fill="#58A6FF"
-  font-size="56"
+  font-size="60"
   font-family="JetBrains Mono, monospace"
   font-weight="700">
 
@@ -23,10 +24,10 @@
   </text>
 
   <!-- Subtitle -->
-  <text x="50%" y="62%"
+  <text x="50%" y="63%"
   text-anchor="middle"
   fill="#C9D1D9"
-  font-size="24"
+  font-size="26"
   font-family="JetBrains Mono, monospace">
 
   AI Engineer • Machine Learning • Quantum Computing
