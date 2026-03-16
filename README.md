@@ -3,22 +3,18 @@
   <img src="https://raw.githubusercontent.com/marwanyasser2005/marwanyasser2005/main/banner.png" width="100%" alt="Marwan Abdelghaffar - Professional Banner"/>
 </p>
 
-<h1 align="center" style="font-size: 3.2rem; font-weight: 800; margin: 12px 0 8px 0;">Marwan Abdelghaffar</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=27&duration=2800&pause=1200&color=0A66C2&center=true&vCenter=true&width=920&lines=AI+Engineer+%E2%80%A2+Machine+Learning+Architect;Deep+Learning+Systems+%E2%80%A2+Generative+AI;Quantum+Computing+Expert+%E2%80%A2+MLOps;Huawei+Cloud+Leader+%E2%80%A2+Enterprise+AI" alt="Dynamic Title"/>
-</p>
+<h1 align="center" style="font-size: 3.4rem; font-weight: 800; margin: 12px 0 6px 0; letter-spacing: -1px;">Marwan Abdelghaffar</h1>
 
 <p align="center">
   <strong>Founder & Lead — Huawei Cloud Developer Group Giza</strong><br>
-  Architecting <strong>production-grade intelligent systems</strong> at the convergence of <strong>AI • Deep Learning • Quantum Computing • Enterprise Cloud ML</strong>
+  <span style="font-size: 1.15rem; color: #94A3B8;">Architecting production-grade intelligent systems at the convergence of AI • Deep Learning • Quantum Computing • Enterprise Cloud ML</span>
 </p>
 
 ---
 
 ### 👋 About Me
 
-**Visionary AI Engineer & Machine Learning Architect** specializing in designing and deploying scalable, production-ready intelligent systems that deliver measurable impact across healthcare, climate modeling, predictive analytics, and automation.
+**AI Engineer & Machine Learning Architect** specializing in designing and deploying scalable, production-ready intelligent systems that deliver measurable impact across healthcare, climate modeling, predictive analytics, and automation.
 
 I fuse rigorous scientific foundations with frontier technologies — transforming classical data science into transformer-powered NLP, generative AI breakthroughs, quantum-enhanced algorithms, and enterprise-grade MLOps pipelines on Huawei Cloud.
 
