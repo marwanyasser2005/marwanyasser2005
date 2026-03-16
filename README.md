@@ -1,42 +1,58 @@
+<!-- ================= HERO BANNER ================= -->
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/marwanyasser2005/marwanyasser2005/main/banner.png" width="100%" alt="Marwan Abdelghaffar Banner"/>
+</p>
+
+<h1 align="center">
+Marwan Abdelghaffar
+</h1>
+
+<p align="center">
+AI Engineer • Machine Learning • Quantum Computing
+</p>
+
 <p align="center">
 
-<svg width="100%" height="340" viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg">
-
-  <!-- Background image from your repo -->
-  <image href="https://raw.githubusercontent.com/marwanyasser2005/marwanyasser2005/main/banner.png"
-  width="1200"
-  height="340"
-  preserveAspectRatio="xMidYMid slice"/>
-
-  <!-- Dark overlay -->
-  <rect width="1200" height="340" fill="rgba(13,17,23,0.65)" />
-
-  <!-- Name -->
-  <text x="50%" y="46%"
-  text-anchor="middle"
-  fill="#58A6FF"
-  font-size="60"
-  font-family="JetBrains Mono, monospace"
-  font-weight="700">
-
-  Marwan Abdelghaffar
-
-  </text>
-
-  <!-- Subtitle -->
-  <text x="50%" y="63%"
-  text-anchor="middle"
-  fill="#C9D1D9"
-  font-size="26"
-  font-family="JetBrains Mono, monospace">
-
-  AI Engineer • Machine Learning • Quantum Computing
-
-  </text>
-
-</svg>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Systems;Quantum+Computing+Research;Cloud+AI+Developer;Open+Source+Builder"/>
 
 </p>
+
+<!-- ================= SOCIAL LINKS ================= -->
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/marwan-abdelghaffar">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/marwanyasser2005">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:ymeryasso123@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<!-- ================= ROLE ================= -->
+
+<p align="center">
+<b>Lead & Owner — Huawei Cloud Developer Group Giza</b>
+</p>
+
+<p align="center">
+Building intelligent systems across  
+AI • Deep Learning • Quantum Computing • Cloud ML
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=marwanyasser2005&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
 
 ### 👋 About Me
 
