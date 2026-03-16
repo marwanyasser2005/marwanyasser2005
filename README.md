@@ -1,16 +1,37 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0A66C2,0F172A,CF0A2C&height=360&section=header&text=Marwan%20Abdelghaffar&fontSize=82&fontColor=FFFFFF&animation=twinkling&desc=AI%20Engineer%20%E2%80%A2%20Machine%20Learning%20Architect%20%E2%80%A2%20Quantum%20Computing%20Expert&desc_align=center&desc_size=27&desc_color=FFFFFF" alt="Marwan Abdelghaffar - Futuristic Tech Banner">
-</div>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/marwan-abdelghaffar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/marwanyasser2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:ymeryasso123@gmail.com"><img src="https://img.shields.io/badge/Email-CF0A2C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=320&color=0:0f2027,50:203a43,100:2c5364&text=Marwan%20Abdelghaffar&fontColor=ffffff&fontSize=70&fontAlignY=40&desc=AI%20Engineer%20•%20Machine%20Learning%20•%20Quantum%20Computing&descSize=24&descAlign=50&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <strong>Lead — Huawei Cloud Developer Group Giza</strong><br>
-  Architecting <strong>next-generation intelligent systems</strong> at the convergence of <strong>AI • Deep Learning • Quantum Computing • Enterprise Cloud ML</strong>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+Systems;Quantum+Computing+Research;Cloud+AI+Architect;Open+Source+Developer"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/marwan-abdelghaffar">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/marwanyasser2005">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:ymeryasso123@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+Lead — Huawei Cloud Developer Group Giza  
+
+Building intelligent systems across  
+
+AI • Deep Learning • Quantum Computing • Cloud ML
+
 </p>
 
 ---
