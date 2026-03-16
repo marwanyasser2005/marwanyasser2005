@@ -1,10 +1,14 @@
+<!-- HERO HEADER -->
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=320&color=0:0f2027,50:203a43,100:2c5364&text=Marwan%20Abdelghaffar&fontColor=ffffff&fontSize=70&fontAlignY=40&desc=AI%20Engineer%20•%20Machine%20Learning%20•%20Quantum%20Computing&descSize=24&descAlign=50&animation=fadeIn"/>
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=330&color=0:0d1117,50:161b22,100:0f2027&text=Marwan%20Abdelghaffar&fontSize=72&fontColor=58A6FF&fontAlignY=40&desc=AI%20Engineer%20•%20Machine%20Learning%20•%20Quantum%20Computing&descSize=26&descAlign=50&descColor=8B949E&animation=fadeIn"/>
+
 </p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+Systems;Quantum+Computing+Research;Cloud+AI+Architect;Open+Source+Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+Engineer;Machine+Learning+Systems;Quantum+Computing+Research;Cloud+AI+Architect;Open+Source+Developer"/>
 
 </p>
 
@@ -26,11 +30,21 @@
 
 <p align="center">
 
-Lead — Huawei Cloud Developer Group Giza  
+<b>Lead & Owner — Huawei Cloud Developer Group Giza</b>
+
+</p>
+
+<p align="center">
 
 Building intelligent systems across  
 
 AI • Deep Learning • Quantum Computing • Cloud ML
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=marwanyasser2005&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
 
