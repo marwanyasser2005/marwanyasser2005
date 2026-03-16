@@ -1,191 +1,145 @@
 <h1 align="center">Marwan Abdelghaffar</h1>
 
+<h3 align="center">
+AI Engineer • Machine Learning • Quantum Computing • Cloud AI
+</h3>
+
 <p align="center">
-AI Engineer | Machine Learning Systems | Quantum Computing Trainee <br>
-Lead – Huawei Cloud Developer Group Giza
+Lead — Huawei Cloud Developer Group Giza
 </p>
 
 <p align="center">
-Building intelligent systems, scalable AI solutions, and developer communities.
+Building intelligent systems and AI products for real-world impact
 </p>
 
 ---
 
-## About
+## Profile
 
-I build machine learning systems and applied AI solutions that move from research to real-world deployment.
+AI engineer working on machine learning systems, deep learning models, and cloud AI applications.
 
-My work focuses on building practical AI applications across multiple domains such as healthcare analytics, climate modeling, predictive systems, and cloud AI deployment. I work with modern machine learning frameworks and experiment with quantum computing algorithms to explore the next generation of computational systems.
+Experience includes building predictive models, working with NLP transformers, and deploying AI prototypes on cloud platforms.
 
-Alongside engineering work, I lead a growing developer ecosystem through Huawei Cloud Developer Group Giza where I organize technical workshops, AI sessions, and cloud training programs for developers and students.
-
----
-
-## Current Focus
-
-- Machine Learning Engineering  
-- Deep Learning Systems  
-- Generative AI Applications  
-- Quantum Computing Algorithms  
-- AI Deployment on Cloud Platforms  
-- Developer Community Building  
-
----
-
-## Achievements
-
-3rd Place — SOLE 2025 BioHackathon  
-Metagenomics and AI Track  
-
-Silver Medal — Huawei ICT Competition 2025–2026  
-Cloud Track National Phase  
-
-3rd Top Achiever — ITIDA GIGS Freelancing Program  
-
----
-
-## Leadership
-
-### Huawei Cloud Developer Group Giza  
-Lead and Owner
-
-Responsibilities
-
-- Build and scale a cloud and AI developer ecosystem
-- Organize workshops and bootcamps
-- Lead technical sessions and mentorship
-- Launch university developer communities
-- Coordinate community organizers
-- Represent Huawei Cloud developer initiatives
-
----
-
-## AI Engineering Experience
-
-Machine learning work includes:
-
-- Healthcare prediction models
-- Climate trend analysis
-- Engineering data modeling
-- Natural language processing systems
-- Machine learning prototypes deployed on cloud platforms
-
-Technologies used include TensorFlow, PyTorch, Scikit-learn, and Python-based data science tools.
-
----
-
-## Quantum Computing
-
-Hands-on experience implementing quantum algorithms and quantum circuit simulations.
-
-Topics studied and implemented:
-
-- Quantum Fourier Transform
-- Grover Search Algorithm
-- Quantum Teleportation
-- Phase Estimation
-- Quantum circuit modeling
-
-Technologies
-
-- Qiskit
-- Cirq
-- Quantum simulators
-
-Programs
-
-- QWorld QSilver Certification
-- QWorld QBronze Certification
-- Quantum Computing Summer Training — Alamein International University
+Leading **Huawei Cloud Developer Group Giza** and building one of the fastest growing developer communities in the region. :contentReference[oaicite:0]{index=0}
 
 ---
 
 ## Tech Stack
 
-### Programming
+<p align="center">
 
-Python  
-JavaScript  
-C++  
-C#  
-TypeScript  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
 
-### AI and Data
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
 
-TensorFlow  
-PyTorch  
-Scikit-learn  
-Pandas  
-NumPy  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45"/>
 
-### Web Development
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
 
-React  
-Node.js  
-HTML  
-CSS  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
 
-### Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
 
-Git  
-VS Code  
-Jupyter Notebook  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45"/>
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45"/>
 
-## Projects
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45"/>
 
-My projects focus on building practical AI systems including:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
 
-- Predictive healthcare analytics models
-- Climate data modeling pipelines
-- Machine learning research experiments
-- AI-driven automation systems
-- Cloud-deployed ML prototypes
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
+
+</p>
 
 ---
 
-## Certifications
+## Areas of Work
 
-Huawei HCIA-AI  
-
-AI Training Certificate — Zewail City  
-
-Elements of AI for Business  
-
-Python for Everybody — University of Michigan  
-
-Applied Data Science Lab — WorldQuant University  
+Artificial Intelligence  
+Machine Learning Systems  
+Deep Learning  
+Generative AI  
+Quantum Computing  
+Data Science  
+Cloud AI Deployment  
 
 ---
 
-## Education
+## Achievements
 
-Capital University  
-Faculty of Science  
-Geology and Chemistry
+3rd Place  
+SOLE 2025 BioHackathon — Metagenomics and AI Track :contentReference[oaicite:1]{index=1}
 
-WorldQuant University  
-Applied AI Lab — Deep Learning for Computer Vision  
+Silver Medal  
+Huawei ICT Competition 2025–2026 — Cloud Track :contentReference[oaicite:2]{index=2}
 
-WorldQuant University  
-Applied Data Science Lab  
+3rd Top Achiever  
+ITIDA GIGS Freelancing Program :contentReference[oaicite:3]{index=3}
+
+---
+
+## Leadership
+
+Huawei Cloud Developer Group Giza  
+Lead and Owner
+
+Responsibilities
+
+Community building  
+Technical workshops  
+Cloud and AI training  
+Developer mentorship  
+University tech communities
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=marwanyasser2005&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=marwanyasser2005&theme=tokyonight"/>
+
+</p>
+
+---
+
+## GitHub Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwanyasser2005&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
 ## Connect
 
-LinkedIn  
-https://www.linkedin.com/in/marwan-abdelghaffar
+<p align="center">
 
-Email  
-ymeryasso123@gmail.com
+<a href="https://www.linkedin.com/in/marwan-abdelghaffar">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-Phone  
-+20 120 140 5097
+<a href="mailto:ymeryasso123@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/marwanyasser2005">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-Open to collaboration on AI research, machine learning systems, and emerging computing technologies.
+
+<img src="https://profile-counter.glitch.me/marwanyasser2005/count.svg"/>
+
 </p>
