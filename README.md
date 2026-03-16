@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0A66C2&height=280&section=header&text=Marwan%20Abdelghaffar&fontSize=55&fontColor=ffffff&animation=twinkling&desc=AI%20Engineer%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Quantum%20Computing&desc_align=center&desc_size=22" alt="Header Banner">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0A66C2,1E3A8A&height=320&section=header&text=Marwan%20Abdelghaffar&fontSize=68&fontColor=FFFFFF&animation=twinkling&desc=AI%20Engineer%20%E2%80%A2%20Machine%20Learning%20Specialist%20%E2%80%A2%20Quantum%20Computing%20Expert&desc_align=center&desc_size=26&desc_color=FFFFFF" alt="Marwan Abdelghaffar - Professional Banner">
 </div>
 
 <p align="center">
@@ -10,44 +10,18 @@
 
 <p align="center">
   <strong>Lead — Huawei Cloud Developer Group Giza</strong><br>
-  Crafting next-generation intelligent systems at the intersection of <strong>AI • Deep Learning • Quantum Computing • Cloud-Native ML</strong>
+  Crafting production-grade intelligent systems at the intersection of <strong>AI • Deep Learning • Quantum Computing • Cloud-Native ML</strong>
 </p>
 
 ---
 
 ### 👋 About Me
 
-**AI Engineer** and **Machine Learning specialist** with a passion for building production-grade intelligent systems. 
+**AI Engineer** specialized in building scalable, production-ready machine learning systems and intelligent applications.
 
-I bridge classical data science with cutting-edge technologies — from transformer-based NLP and generative AI to quantum-enhanced algorithms and scalable cloud AI deployments on Huawei Cloud.
+I combine rigorous scientific foundations with cutting-edge technologies — transforming classical data science into transformer-powered NLP, generative AI, quantum-enhanced models, and enterprise-grade cloud AI deployments on Huawei Cloud and beyond.
 
-As **Lead and Owner** of the Huawei Cloud Developer Group in Giza, I drive community growth through technical workshops, hands-on training, developer mentorship, and university outreach programs — empowering hundreds of developers across Egypt.
-
-My journey began in the physical sciences (Geology & Chemistry) and evolved into applied AI, proving that rigorous scientific thinking fuels breakthrough technology.
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" alt="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="48" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="48" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="VS Code" />
-</p>
-
-**Core Expertise:**  
-**Artificial Intelligence • Machine Learning • Deep Learning • Generative AI • Quantum Machine Learning • MLOps • Cloud AI (Huawei Cloud, AWS, Azure) • NLP & Transformers • Predictive Analytics • Data Engineering**
+As **Lead & Owner** of the Huawei Cloud Developer Group in Giza, I’ve grown a thriving community through 30+ technical workshops, certification bootcamps, mentorship programs, and university partnerships — empowering developers across Egypt to master AI and cloud technologies.
 
 ---
 
@@ -55,59 +29,81 @@ My journey began in the physical sciences (Geology & Chemistry) and evolved into
 
 <div align="center">
 
-| Award | Placement | Organization |
-|-------|-----------|--------------|
-| **SOLE BioHackathon** | **3rd Place** | SOLE |
-| **Huawei ICT Competition – Cloud Track** | **Silver Medal** | Huawei |
-| **ITIDA GIGS Freelancing Program** | **Top 3 Achiever** | ITIDA |
+| Award                              | Placement          | Organization          |
+|------------------------------------|--------------------|-----------------------|
+| SOLE BioHackathon                  | **3rd Place**      | SOLE                  |
+| Huawei ICT Competition – Cloud Track | **Silver Medal**   | Huawei                |
+| ITIDA GIGS Freelancing Program     | **Top 3 Achiever** | ITIDA                 |
 
 </div>
 
 ---
 
-### 🌟 Leadership & Community
+### 🌟 Leadership
 
 **Huawei Cloud Developer Group Giza** — *Lead & Owner*
 
-- Scaled community from inception to a vibrant network of AI & cloud enthusiasts
-- Organized 30+ technical workshops and hands-on training sessions
-- Delivered cloud certification bootcamps and mentorship programs
-- Launched university chapters and collaborative AI projects
-- Fostered partnerships with academia and industry leaders
+- Scaled community from zero to hundreds of active AI & cloud developers
+- Designed and delivered 30+ hands-on workshops and certification training sessions
+- Mentored emerging developers and launched multiple university chapters
+- Built strategic partnerships with academia and industry leaders
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="52" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="52" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="52" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="52" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="52" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="52" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="52" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="52" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="52" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="52" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="52" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="52" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="52" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="52" alt="VS Code" />
+</p>
+
+**Core Expertise:** Artificial Intelligence • Machine Learning • Deep Learning • Generative AI • Quantum Machine Learning • MLOps • Cloud AI (Huawei Cloud) • NLP & Transformers • Predictive Modeling • Data Engineering
 
 ---
 
 ### 📜 Certifications
 
-- **HCIA-AI** — Huawei Certified ICT Associate – Artificial Intelligence
-- **AI Training Program** — Zewail City of Science and Technology
-- **Python for Everybody** — University of Michigan (Coursera)
-- **Applied Data Science Laboratory** — WorldQuant University
-- **Elements of AI for Business** — University of Helsinki
+- **HCIA-AI** — Huawei Certified ICT Associate – Artificial Intelligence  
+- **AI Training Program** — Zewail City of Science and Technology  
+- **Python for Everybody** — University of Michigan (Coursera)  
+- **Applied Data Science Laboratory** — WorldQuant University  
+- **Elements of AI for Business** — University of Helsinki  
 
 ---
 
 ### 🎓 Education
 
-- **Faculty of Science** — Capital University (Geology & Chemistry)
-- **Applied AI Laboratory** — WorldQuant University
-- **Applied Data Science Laboratory** — WorldQuant University
+- **Faculty of Science** — Capital University (Geology & Chemistry)  
+- **Applied AI Laboratory** — WorldQuant University  
+- **Applied Data Science Laboratory** — WorldQuant University  
 
 ---
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marwanyasser2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marwanyasser2005&theme=tokyonight&hide_border=true" alt="Streak Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=marwanyasser2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="195">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marwanyasser2005&theme=tokyonight&hide_border=true&border_radius=15" alt="Contribution Streak" height="195">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwanyasser2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwanyasser2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&hide=html,css" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marwanyasser2005&theme=tokyo-night&hide_border=true&radius=16" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marwanyasser2005&theme=tokyo-night&hide_border=true&radius=20&area=true" alt="Activity Graph">
 </p>
 
 ---
@@ -115,7 +111,7 @@ My journey began in the physical sciences (Geology & Chemistry) and evolved into
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
 </p>
 
 ---
