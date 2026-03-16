@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0A66C2,1E3A8A&height=320&section=header&text=Marwan%20Abdelghaffar&fontSize=68&fontColor=FFFFFF&animation=twinkling&desc=AI%20Engineer%20%E2%80%A2%20Machine%20Learning%20Specialist%20%E2%80%A2%20Quantum%20Computing%20Expert&desc_align=center&desc_size=26&desc_color=FFFFFF" alt="Marwan Abdelghaffar - Professional Banner">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0A66C2,000000,CF0A2C&height=340&section=header&text=Marwan%20Abdelghaffar&fontSize=72&fontColor=FFFFFF&animation=twinkling&desc=AI%20Engineer%20%E2%80%A2%20Machine%20Learning%20Specialist%20%E2%80%A2%20Quantum%20Computing%20Expert&desc_align=center&desc_size=28&desc_color=FFFFFF" alt="Marwan Abdelghaffar - Professional Banner">
 </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marwan-abdelghaffar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/marwanyasser2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:ymeryasso123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:ymeryasso123@gmail.com"><img src="https://img.shields.io/badge/Email-CF0A2C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
   <strong>Lead — Huawei Cloud Developer Group Giza</strong><br>
-  Crafting production-grade intelligent systems at the intersection of <strong>AI • Deep Learning • Quantum Computing • Cloud-Native ML</strong>
+  Crafting <strong>production-grade intelligent systems</strong> at the intersection of <strong>AI • Deep Learning • Quantum Computing • Cloud-Native ML</strong>
 </p>
 
 ---
@@ -19,9 +19,9 @@
 
 **AI Engineer** specialized in building scalable, production-ready machine learning systems and intelligent applications.
 
-I combine rigorous scientific foundations with cutting-edge technologies — transforming classical data science into transformer-powered NLP, generative AI, quantum-enhanced models, and enterprise-grade cloud AI deployments on Huawei Cloud and beyond.
+I fuse rigorous scientific thinking with cutting-edge technology — turning classical data science into transformer-powered NLP, generative AI, quantum-enhanced models, and enterprise-grade cloud AI deployments on Huawei Cloud.
 
-As **Lead & Owner** of the Huawei Cloud Developer Group in Giza, I’ve grown a thriving community through 30+ technical workshops, certification bootcamps, mentorship programs, and university partnerships — empowering developers across Egypt to master AI and cloud technologies.
+As **Lead & Owner** of the Huawei Cloud Developer Group in Giza, I’ve built a thriving community of hundreds through 30+ workshops, certification bootcamps, mentorship programs, and university partnerships — driving AI excellence across Egypt.
 
 ---
 
@@ -43,10 +43,10 @@ As **Lead & Owner** of the Huawei Cloud Developer Group in Giza, I’ve grown a 
 
 **Huawei Cloud Developer Group Giza** — *Lead & Owner*
 
-- Scaled community from zero to hundreds of active AI & cloud developers
-- Designed and delivered 30+ hands-on workshops and certification training sessions
-- Mentored emerging developers and launched multiple university chapters
-- Built strategic partnerships with academia and industry leaders
+- Scaled community from inception to hundreds of active AI & cloud developers  
+- Delivered 30+ hands-on workshops and Huawei certification bootcamps  
+- Mentored emerging talent and launched university chapters  
+- Forged strategic partnerships with academia and industry
 
 ---
 
@@ -121,15 +121,15 @@ As **Lead & Owner** of the Huawei Cloud Developer Group in Giza, I’ve grown a 
 <p align="center">
   <a href="https://www.linkedin.com/in/marwan-abdelghaffar"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/marwanyasser2005"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:ymeryasso123@gmail.com"><img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:ymeryasso123@gmail.com"><img src="https://img.shields.io/badge/Send_Email-CF0A2C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/marwanyasser2005/count.svg" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=marwanyasser2005&color=0A66C2&style=for-the-badge&label=Profile%20Views" alt="Profile Views">
 </p>
 
 <div align="center">
-  <sub>Built with passion for AI that transforms the world • Last updated March 2026</sub>
+  <sub>Built with passion for AI that transforms the world • Huawei Blue • Black • Red • Last updated March 2026</sub>
 </div>
