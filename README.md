@@ -1,44 +1,41 @@
-<!-- AI TECH BANNER -->
-
-<p align="center">
-<img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=2400&auto=format&fit=crop" width="100%" />
-</p>
-
-<h1 align="center">Marwan Abdelghaffar</h1>
-
-<p align="center">
-AI Engineer • Machine Learning • Quantum Computing
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+Systems;Quantum+Computing+Research;Cloud+AI+Architect;Open+Source+Developer"/>
-</p>
-
 <p align="center">
 
-<a href="https://www.linkedin.com/in/marwan-abdelghaffar">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<svg width="100%" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
 
-<a href="https://github.com/marwanyasser2005">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <!-- Background Image -->
+  <image href="https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1600&q=80"
+  width="1200" height="320"
+  preserveAspectRatio="xMidYMid slice"/>
 
-<a href="mailto:ymeryasso123@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <!-- Dark overlay -->
+  <rect width="1200" height="320" fill="rgba(13,17,23,0.65)" />
+
+  <!-- Main Title -->
+  <text x="50%" y="45%"
+  text-anchor="middle"
+  fill="#58A6FF"
+  font-size="56"
+  font-family="JetBrains Mono, monospace"
+  font-weight="700">
+
+  Marwan Abdelghaffar
+
+  </text>
+
+  <!-- Subtitle -->
+  <text x="50%" y="62%"
+  text-anchor="middle"
+  fill="#C9D1D9"
+  font-size="24"
+  font-family="JetBrains Mono, monospace">
+
+  AI Engineer • Machine Learning • Quantum Computing
+
+  </text>
+
+</svg>
 
 </p>
-
-<p align="center">
-<b>Lead & Owner — Huawei Cloud Developer Group Giza</b>
-</p>
-
-<p align="center">
-AI • Deep Learning • Quantum Computing • Cloud ML
-</p>
-
----
 
 ### 👋 About Me
 
