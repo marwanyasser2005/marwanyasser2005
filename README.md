@@ -1,19 +1,14 @@
 <!-- HERO HEADER -->
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=330&color=0:0d1117,50:161b22,100:0f2027&text=Marwan%20Abdelghaffar&fontSize=72&fontColor=58A6FF&fontAlignY=40&desc=AI%20Engineer%20•%20Machine%20Learning%20•%20Quantum%20Computing&descSize=26&descAlign=50&descColor=8B949E&animation=fadeIn"/>
-
+<img src="https://capsule-render.vercel.app/api?type=wave&height=260&color=0:0d1117,50:161b22,100:1f6feb&text=Marwan%20Abdelghaffar&fontColor=58A6FF&fontSize=64&fontAlignY=40&desc=AI%20Engineer%20•%20Machine%20Learning%20•%20Quantum%20Computing&descAlign=50&descSize=22&animation=fadeIn"/>
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+Engineer;Machine+Learning+Systems;Quantum+Computing+Research;Cloud+AI+Architect;Open+Source+Developer"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+Systems;Quantum+Computing+Research;Cloud+AI+Developer;Open+Source+Builder"/>
 </p>
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/marwan-abdelghaffar">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -25,27 +20,19 @@
 <a href="mailto:ymeryasso123@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
 
 <p align="center">
-
 <b>Lead & Owner — Huawei Cloud Developer Group Giza</b>
-
 </p>
 
 <p align="center">
-
 Building intelligent systems across  
-
 AI • Deep Learning • Quantum Computing • Cloud ML
-
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=marwanyasser2005&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
+<img src="https://komarev.com/ghpvc/?username=marwanyasser2005&style=for-the-badge&color=1f6feb"/>
 </p>
 
 ---
