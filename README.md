@@ -6,7 +6,7 @@
 <h1 align="center" style="font-size: 3.4rem; font-weight: 800; margin: 12px 0 6px 0; letter-spacing: -1px;">Marwan Abdelghaffar</h1>
 
 <p align="center">
-  <strong>Founder & Lead — Huawei Cloud Developer Group Giza</strong><br>
+  <strong>Founder & Lead of Huawei Cloud Developer Group Giza</strong><br>
   <span style="font-size: 1.15rem; color: #94A3B8;">Architecting production-grade intelligent systems at the convergence of AI • Deep Learning • Quantum Computing • Enterprise Cloud ML</span>
 </p>
 
@@ -36,9 +36,10 @@ As **Founder & Lead** of the Huawei Cloud Developer Group in Giza, I built a pre
 
 ---
 
-### 🌟 Leadership
+### ✨ Leadership
 
-**Huawei Cloud Developer Group Giza** — *Founder & Lead*
+**Huawei Cloud Developer Group Giza**  
+*Founder & Lead*
 
 - Scaled community from inception to 500+ active AI & cloud professionals  
 - Designed and delivered 40+ elite technical workshops and Huawei certification bootcamps  
@@ -73,20 +74,20 @@ Artificial Intelligence • Machine Learning Architecture • Deep Learning • 
 
 ### 📜 Certifications
 
-- **HCCDA** — Huawei Cloud Certified Developer Associate (Technical Engineer • AI • Big Data)  
-- **HCIA-AI** — Huawei Certified ICT Associate – Artificial Intelligence  
-- **AI Training Program** — Zewail City of Science and Technology  
-- **Python for Everybody** — University of Michigan (Coursera)  
-- **Applied Data Science Laboratory** — WorldQuant University  
-- **Elements of AI for Business** — University of Helsinki  
+- **HCCDA** - Huawei Cloud Certified Developer Associate (Technical Engineer • AI • Big Data)  
+- **HCIA-AI** - Huawei Certified ICT Associate – Artificial Intelligence  
+- **AI Training Program** - Zewail City of Science and Technology  
+- **Python for Everybody** - University of Michigan (Coursera)  
+- **Applied Data Science Laboratory** - WorldQuant University  
+- **Elements of AI for Business** - University of Helsinki  
 
 ---
 
 ### 🎓 Education
 
-- **Helwan University** — Faculty of Science (Geochemistry)  
-- **WorldQuant University** — Applied AI Laboratory  
-- **WorldQuant University** — Applied Data Science Laboratory  
+- **Capital University** - Faculty of Science (Geochemistry)  
+- **WorldQuant University** - Applied AI Laboratory  
+- **WorldQuant University** - Applied Data Science Laboratory  
 
 ---
 
