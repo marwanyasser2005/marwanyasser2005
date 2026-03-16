@@ -1,14 +1,21 @@
-<!-- HERO HEADER -->
+<!-- AI TECH BANNER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&height=260&color=0:0d1117,50:161b22,100:1f6feb&text=Marwan%20Abdelghaffar&fontColor=58A6FF&fontSize=64&fontAlignY=40&desc=AI%20Engineer%20•%20Machine%20Learning%20•%20Quantum%20Computing&descAlign=50&descSize=22&animation=fadeIn"/>
+<img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=2400&auto=format&fit=crop" width="100%" />
+</p>
+
+<h1 align="center">Marwan Abdelghaffar</h1>
+
+<p align="center">
+AI Engineer • Machine Learning • Quantum Computing
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+Systems;Quantum+Computing+Research;Cloud+AI+Developer;Open+Source+Builder"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+Systems;Quantum+Computing+Research;Cloud+AI+Architect;Open+Source+Developer"/>
 </p>
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/marwan-abdelghaffar">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -20,6 +27,7 @@
 <a href="mailto:ymeryasso123@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 <p align="center">
@@ -27,12 +35,7 @@
 </p>
 
 <p align="center">
-Building intelligent systems across  
 AI • Deep Learning • Quantum Computing • Cloud ML
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=marwanyasser2005&style=for-the-badge&color=1f6feb"/>
 </p>
 
 ---
