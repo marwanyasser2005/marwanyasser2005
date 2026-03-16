@@ -3,13 +3,13 @@
 <svg width="100%" height="340" viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg">
 
   <!-- Background image -->
-  <image href="https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=2000&q=80"
+  <image href="https://drive.google.com/uc?export=view&id=18rN944BTmPQC3hrLoJYyeGMhhAEQdd63"
   width="1200"
   height="340"
   preserveAspectRatio="xMidYMid slice"/>
 
   <!-- Dark overlay -->
-  <rect width="1200" height="340" fill="rgba(13,17,23,0.75)" />
+  <rect width="1200" height="340" fill="rgba(13,17,23,0.70)" />
 
   <!-- Name -->
   <text x="50%" y="46%"
